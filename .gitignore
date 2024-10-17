@@ -1,0 +1,5 @@
+.venv/
+consulta*
+test.ipynb
+ine-rinsfran.ovpn
+.env
